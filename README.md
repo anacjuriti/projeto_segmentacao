@@ -35,7 +35,7 @@ Neste projeto, foi realizado uma análise de dados para a loja especializada em 
 
 ### 1.2 Análise Exploratória
 
-- Agrupamoento de dados de acordo com variáveis categóricas e visualização dessas variáveis.
+- Agrupamento de dados de acordo com variáveis categóricas e visualização dessas variáveis.
 - Cálculo de medidas de tendência central e quartis, decis e percentis.
 
 ### 1.3 Segmentação de Clientes
