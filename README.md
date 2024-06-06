@@ -2,11 +2,6 @@
 Análise de dados da Loja El Mercado, com uma análise descritiva e segmentação de clientes utilizando RFM.
 
 
-## Resumo
-
-Este projeto forneceu uma compreensão profunda dos clientes da loja "El Mercado", permitindo personalizar estratégias de marketing e vendas para atender às necessidades específicas de cada grupo de clientes.
-A análise detalhada e as visualizações criadas ajudaram a identificar padrões significativos e forneceram recomendações acionáveis para o negócio.
-
 ### Guia para Plano de Ação 
 https://lookerstudio.google.com/reporting/dfa875ad-42d7-4886-ba41-fc638fe79b48
 
@@ -26,6 +21,7 @@ https://lookerstudio.google.com/reporting/dfa875ad-42d7-4886-ba41-fc638fe79b48
   - [3.1 Conexão e Visualização](#31-conexão-e-visualização)
   - [3.2 Criação de Dashboard Interativo](#32-criação-de-dashboard-interativo)
   - [3.3 Comunicação de Resultados](#33-comunicação-de-resultados)
+- [Conclusão](#Conclusão)
 
 ---
 
@@ -83,5 +79,8 @@ Neste projeto, foi realizado uma análise de dados para a loja especializada em 
 - Ficha Técnica.
 - Compartilhamento do link público do dashboard no Looker Studio.
 
+## Conclusão
+Este projeto forneceu uma compreensão profunda dos clientes da loja "El Mercado", permitindo personalizar estratégias de marketing e vendas para atender às necessidades específicas de cada grupo de clientes.
+A análise detalhada e as visualizações criadas ajudaram a identificar padrões significativos e forneceram recomendações acionáveis para o negócio.
 
 
