@@ -18,6 +18,7 @@ Análise de dados da Loja El Mercado, com uma análise descritiva e segmentaçã
   - [3.2 Criação de Dashboard Interativo](#32-criação-de-dashboard-interativo)
   - [3.3 Comunicação de Resultados](#33-comunicação-de-resultados)
 - [Conclusão](#Conclusão)
+- [Guia para Plano de Ação](#Guia)
 
 ---
 
