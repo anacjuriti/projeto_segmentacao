@@ -80,7 +80,7 @@ Este projeto forneceu uma compreensão profunda dos clientes da loja "El Mercado
 A análise detalhada e as visualizações criadas ajudaram a identificar padrões significativos e forneceram recomendações acionáveis para o negócio.
 
 
-### Guia para Plano de Ação 
+## Guia para Plano de Ação 
 https://lookerstudio.google.com/reporting/dfa875ad-42d7-4886-ba41-fc638fe79b48
 
 
