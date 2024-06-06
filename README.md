@@ -74,7 +74,7 @@ Neste projeto, foi realizado uma análise de dados para a loja especializada em 
 
 - Apresentação com os resultados e conclusões desta análise.
 - Ficha Técnica.
-- Compartilhamento do link público do dashboard no Looker Studio.
+- Compartilhamento do link público do manual de implementação das sugestões para melhorias no Looker Studio. 
 
 ## Conclusão
 Este projeto forneceu uma compreensão profunda dos clientes da loja "El Mercado", permitindo personalizar estratégias de marketing e vendas para atender às necessidades específicas de cada grupo de clientes.
