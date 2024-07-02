@@ -2,6 +2,17 @@
 Análise de dados da Loja El Mercado, com uma análise descritiva e segmentação de clientes utilizando RFM.
 
 
+## Dashboard
+![image](https://github.com/anacjuriti/projeto_segmentacao/assets/108712844/157c3dcb-148e-408a-9cf2-fa7e3e107c13)
+
+![image](https://github.com/anacjuriti/projeto_segmentacao/assets/108712844/fa95e5eb-e3bb-465f-be58-30964b3c24c9)
+
+![image](https://github.com/anacjuriti/projeto_segmentacao/assets/108712844/29094a95-60b7-48c8-867f-d0de783a6b99)
+
+![image](https://github.com/anacjuriti/projeto_segmentacao/assets/108712844/a9207cc7-8454-425d-ab9f-6b6f7d69455e)
+
+
+
 
 ## Índice
 
